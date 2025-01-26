@@ -1,0 +1,20 @@
+{
+  "name": "@symthoptic/tenon",
+  "version": "1.0.0",
+  "description": "Node.js module for interacting with the SYMTHOPTIC Tenon API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tenon",
+    "ai",
+    "node",
+    "module"
+  ],
+  "author": "SYMTHOPTIC, Inc",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
